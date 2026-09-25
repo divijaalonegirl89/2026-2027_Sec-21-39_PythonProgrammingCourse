@@ -1,0 +1,4 @@
+num1=71
+num2=72
+result=num1+num2
+print(result) 
